@@ -1,0 +1,23 @@
+{
+  "name": "is-wds",
+  "version": "1.0.0",
+  "description": "is the string WDS?",
+  "keywords": [
+    "WDS"
+  ],
+  "homepage": "https://github.com/couper117/my-nmp#readme",
+  "bugs": {
+    "url": "https://github.com/couper117/my-nmp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/couper117/my-nmp.git"
+  },
+  "license": "ISC",
+  "author": "couper117",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
